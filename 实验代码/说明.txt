@@ -1,0 +1,12 @@
+代码为python代码，请先安装python3.6
+如果python上没有安装os或nltk等包，请先行安装
+
+运行方法：
+1.把filter.py与数据集文件夹中的data set 文件夹放置在一个文件夹内
+2.使用python打开filter.py
+3.运行filter.py
+
+
+
+
+filter.py是我们编写的分类器，nltk，os等是运行此分类器需要安装的包
